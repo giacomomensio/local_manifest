@@ -2,10 +2,10 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/lavender" name="giacomomensio/device_xiaomi_lavender.git" remote="github" revision="thirteen-plus" />
- <project path="device/xiaomi/sdm660-common" name="giacomomensio/device_xiaomi_sdm660-common.git" remote="github" revision="thirteen-plus" />
- <project path="vendor/xiaomi/lavender" name="giacomomensio/vendor_xiaomi_lavender.git" remote="github" revision="thirteen-plus" />
- <project path="vendor/xiaomi/sdm660-common" name="giacomomensio/vendor_xiaomi_sdm660-common.git" remote="github" revision="thirteen-plus" />
- <project path="kernel/xiaomi/sdm660" name="giacomomensio/kernel_xiaomi_sdm660.git" remote="github" revision="thirteen-plus" />
+ <project path="device/xiaomi/lavender" name="giacomomensio/device_xiaomi_lavender.git" remote="github" revision="thirteen" />
+ <project path="device/xiaomi/sdm660-common" name="giacomomensio/device_xiaomi_sdm660-common.git" remote="github" revision="thirteen" />
+ <project path="vendor/xiaomi/lavender" name="giacomomensio/vendor_xiaomi_lavender.git" remote="github" revision="thirteen" />
+ <project path="vendor/xiaomi/sdm660-common" name="giacomomensio/vendor_xiaomi_sdm660-common.git" remote="github" revision="thirteen" />
+ <project path="kernel/xiaomi/sdm660" name="giacomomensio/kernel_xiaomi_sdm660.git" remote="github" revision="thirteen" />
  
 </manifest>
